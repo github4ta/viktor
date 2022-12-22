@@ -58,6 +58,7 @@
                     <encoding>UTF-8</encoding>
                     <source>10</source>
                     <target>10</target>
+                    <testFailureIgnore>true</testFailureIgnore>
                 </configuration>
             </plugin>
 
